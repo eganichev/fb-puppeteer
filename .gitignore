@@ -1,0 +1,18 @@
+# dependencies
+/node_modules
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+yarn-error.log
+
+# example
+/quick-start
+
+# global variables
+#.env
+cookiesList.json
